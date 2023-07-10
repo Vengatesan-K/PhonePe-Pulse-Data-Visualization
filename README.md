@@ -57,6 +57,7 @@ postgreSQL database and fetch the data into a Pandas dataframe. Use the data in
 the dataframe to update the dashboard dynamically.
 
 **Deployment**
+
 Ensure the solution is secure, efficient, and user-friendly. Test
 the solution thoroughly and deploy the dashboard publicly, making it
 accessible to users.
