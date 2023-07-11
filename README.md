@@ -2,7 +2,7 @@
 Capstone Project Assigned by Guvi Institute.
 
  <img src="https://1000logos.net/wp-content/uploads/2022/11/PhonePe-Logo.png" width="20%" height="50%">
-
+ 
  ```
 The open-source platform for visualizing PhonePe pulse insights.
 ```
