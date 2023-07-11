@@ -14,7 +14,7 @@ from streamlit_extras.add_vertical_space import add_vertical_space
 import io
 
 
-#conn = psycopg2.connect(host="localhost", user="postgres", password="vengatesh", port=5432, database="PhonePe")
+#conn = psycopg2.connect(host="localhost", user="postgres", password="******", port=1234, database="db_name")
 #cur = conn.cursor()
 
 Agg_trans_df = pd.read_csv(r'C:\Users\VENKA\Desktop\Data Science\Python Anaconda\Misci\Agg_trans.csv')
